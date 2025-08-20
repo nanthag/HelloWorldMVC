@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/jspm_packages
+
+# production
+/build
+/dist
+/bin
+/obj
+
+# misc
+.DS_Store
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
